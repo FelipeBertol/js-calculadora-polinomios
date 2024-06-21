@@ -1,0 +1,9 @@
+i {
+    display: flex;
+    height: auto;
+    align-items: center;
+}
+
+.input-group-text {
+    background-color: #e2e3e5
+};
